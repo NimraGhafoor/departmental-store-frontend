@@ -1,4 +1,3 @@
-# departmentalStore-frontend
+# departmental-Store-frontend
 
-This project is made using node js and express js.
-The db used is sql.
+This project is made using react, html, css, bootstrap and Type-script,
